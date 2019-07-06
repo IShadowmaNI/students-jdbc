@@ -1,0 +1,5 @@
+com\marian\hibernate\model\Course.class
+com\marian\hibernate\model\Address.class
+com\marian\hibernate\model\Teacher.class
+com\marian\hibernate\util\HibernateUtil.class
+com\marian\hibernate\model\Student.class
